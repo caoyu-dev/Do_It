@@ -7,9 +7,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-/**
- * 성능 망함. 다시 생각해야 함
- */
 public class P11004 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
