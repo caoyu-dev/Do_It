@@ -62,5 +62,5 @@ Do it! 알고리즘 코딩 테스트 자바 편 - 스터디
 28. [트리의 지름 구하기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1167.java)
 
 ## 이진 탐색
-29. [원하는 정수 찾기] P1920 예정
-30. 
+29. [원하는 정수 찾기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1920.java)
+30. [블루레이 만들기]
