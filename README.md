@@ -1,6 +1,7 @@
 # Do_It
 Do it! 알고리즘 코딩 테스트 자바 편 - 스터디
 
+
 # 자료구조
 ## 배열과 리스트
 1. [숫자의 합 구하기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P11720.java)
@@ -26,6 +27,7 @@ Do it! 알고리즘 코딩 테스트 자바 편 - 스터디
 13. [카드 게임](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P2164.java)
 14. [절댓값 힙 구현하기] P11286 예정
 
+
 # 정렬
 ## 버블 정렬
 15. [수 정렬하기 1](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P2750.java)
@@ -47,6 +49,7 @@ Do it! 알고리즘 코딩 테스트 자바 편 - 스터디
 ## 기수 정렬
 22. [수 정렬하기 3](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P10989.java)
 
+
 # 탐색
 ## 깊이 우선 탐색
 23. [연결 요소의 개수 구하기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P11724.java)
@@ -56,4 +59,8 @@ Do it! 알고리즘 코딩 테스트 자바 편 - 스터디
 ## 너비 우선 탐색
 26. [DFS 와 BFS 프로그램](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1206_pre.java)
 27. [미로 탐색하기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P2178.java)
-28. [트리의 지름 구하기] P1167 예
+28. [트리의 지름 구하기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1167.java)
+
+## 이진 탐색
+29. [원하는 정수 찾기] P1920 예정
+30. 
