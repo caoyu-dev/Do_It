@@ -63,4 +63,5 @@ Do it! 알고리즘 코딩 테스트 자바 편 - 스터디
 
 ## 이진 탐색
 29. [원하는 정수 찾기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1920.java)
-30. [블루레이 만들기]
+30. [블루레이 만들기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P2343.java)
+31. [배열에서 K번째 수 찾기]
