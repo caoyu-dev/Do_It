@@ -71,3 +71,4 @@ Do it! 알고리즘 코딩 테스트 자바 편 - 스터디
 ## 그리디 알고리즘
 32. [동전 개수의 최솟값 구하기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P11047.java)
 33. [카드 정렬하기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1715.java)
+34. [수를 묶어서 최댓값 만들기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1744.java)
