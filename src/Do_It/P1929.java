@@ -2,7 +2,6 @@ package Do_It;
 
 import java.util.Scanner;
 
-
 public class P1929 {
     static boolean[] prime;
     public static void main(String[] args) {
