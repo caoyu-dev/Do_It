@@ -79,3 +79,6 @@ Do it! 알고리즘 코딩 테스트 자바 편 - 스터디
 # 정수론
 ## 소수 구하기
 37. [소수 구하기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1929.java)
+38. [나머지 합 구하기] P1456 예정
+39. [소수 & 팰린드롬 수 중에서 최솟값 찾기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1747.java)
+40. [제곱이 아닌 수 찾기](https://github.com/caoyu-dev/Do_It/blob/master/src/Do_It/P1016.java)
