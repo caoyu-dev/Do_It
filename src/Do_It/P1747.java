@@ -30,7 +30,7 @@ public class P1747 {
     }
 
     /**
-     * 에라토스테네스 체 알로리즘
+     * 에라토스테네스 체 알로리즘 .
      */
     private static boolean isPrime(int n) {
         if(n == 1) return false;
